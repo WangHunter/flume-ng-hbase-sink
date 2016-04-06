@@ -1,0 +1,83 @@
+
+*****************************************************
+Summary
+-------
+Notes: 0
+Binaries: 25
+Archives: 0
+Standards: 22
+
+Apache Licensed: 22
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    bin/pom.xml
+  B     bin/src/main/java/org/apache/flume/sink/hbase/AisinoAsyncHbaseEventSerializer.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/AsyncHbaseEventSerializer.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/AsyncHBaseSink$CellIdentifier.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/AsyncHBaseSink$FailureCallback.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/AsyncHBaseSink$SuccessCallback.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/AsyncHBaseSink.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/BatchAware.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/HbaseEventSerializer.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/HBaseSink$DebugIncrementsCallback.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/HBaseSink.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/HBaseSinkConfigurationConstants.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/HBaseSinkSecurityManager.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/RegexHbaseEventSerializer.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/SimpleAsyncHbaseEventSerializer.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/SimpleHbaseEventSerializer$KeyType.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/SimpleHbaseEventSerializer.class
+  B     bin/src/main/java/org/apache/flume/sink/hbase/SimpleRowKeyGenerator.class
+  B     bin/src/test/java/org/apache/flume/sink/hbase/IncrementAsyncHBaseSerializer.class
+  B     bin/src/test/java/org/apache/flume/sink/hbase/IncrementHBaseSerializer.class
+  B     bin/src/test/java/org/apache/flume/sink/hbase/MockSimpleHbaseEventSerializer.class
+  B     bin/src/test/java/org/apache/flume/sink/hbase/TestAsyncHBaseSink.class
+  B     bin/src/test/java/org/apache/flume/sink/hbase/TestHBaseSink$CoalesceValidator.class
+  B     bin/src/test/java/org/apache/flume/sink/hbase/TestHBaseSink.class
+  B     bin/src/test/java/org/apache/flume/sink/hbase/TestHBaseSinkCreation.class
+  B     bin/src/test/java/org/apache/flume/sink/hbase/TestRegexHbaseEventSerializer.class
+  AL    pom.xml
+  AL    src/main/java/org/apache/flume/sink/hbase/AisinoAsyncHbaseEventSerializer.java
+  AL    src/main/java/org/apache/flume/sink/hbase/AisinoPlatformShoplogsAsyncHbaseEventSerializer.java
+  AL    src/main/java/org/apache/flume/sink/hbase/AsyncHbaseEventSerializer.java
+  AL    src/main/java/org/apache/flume/sink/hbase/AsyncHBaseSink.java
+  AL    src/main/java/org/apache/flume/sink/hbase/BatchAware.java
+  AL    src/main/java/org/apache/flume/sink/hbase/HbaseEventSerializer.java
+  AL    src/main/java/org/apache/flume/sink/hbase/HBaseSink.java
+  AL    src/main/java/org/apache/flume/sink/hbase/HBaseSinkConfigurationConstants.java
+  AL    src/main/java/org/apache/flume/sink/hbase/HBaseSinkSecurityManager.java
+  AL    src/main/java/org/apache/flume/sink/hbase/RegexHbaseEventSerializer.java
+  AL    src/main/java/org/apache/flume/sink/hbase/SimpleAsyncHbaseEventSerializer.java
+  AL    src/main/java/org/apache/flume/sink/hbase/SimpleHbaseEventSerializer.java
+  AL    src/main/java/org/apache/flume/sink/hbase/SimpleRowKeyGenerator.java
+  AL    src/test/java/org/apache/flume/sink/hbase/IncrementAsyncHBaseSerializer.java
+  AL    src/test/java/org/apache/flume/sink/hbase/IncrementHBaseSerializer.java
+  AL    src/test/java/org/apache/flume/sink/hbase/MockSimpleHbaseEventSerializer.java
+  AL    src/test/java/org/apache/flume/sink/hbase/TestAsyncHBaseSink.java
+  AL    src/test/java/org/apache/flume/sink/hbase/TestHBaseSink.java
+  AL    src/test/java/org/apache/flume/sink/hbase/TestHBaseSinkCreation.java
+  AL    src/test/java/org/apache/flume/sink/hbase/TestRegexHbaseEventSerializer.java
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 
